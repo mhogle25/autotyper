@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\mitch\source\repos\autotyper\autotyper\main.cpp(70): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
-  autotyper.vcxproj -> C:\Users\mitch\source\repos\autotyper\Debug\autotyper.exe
